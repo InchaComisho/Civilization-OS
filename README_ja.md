@@ -440,7 +440,7 @@ https://note.com/inchacomusho/n/nc10fa0264dae
 
 ---
 
-## 著者
+## Author / 著者
 
 **マスター / inchacomisho / inchacomusho**
 
