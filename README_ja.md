@@ -403,12 +403,32 @@ AIも重要である。
 
 ---
 
-## Related Article / 関連記事
+## 関連GitHub文書 / Related GitHub Documents
 
-English version:
+### 文明OS・黎明文明OS
 
-**Civilization OS**  
-https://github.com/InchaComisho/Civilization-OS/blob/main/README.md
+- [Civilization OS / English](https://github.com/InchaComisho/Civilization-OS/blob/main/README.md)
+- [次世代文明OS／黎明文明OS](https://github.com/InchaComisho/REIMEI-Civilization-OS/blob/main/README_ja.md)
+- [REIMEI Civilization OS / Next Civilization OS](https://github.com/InchaComisho/REIMEI-Civilization-OS/blob/main/README.md)
+
+### 黎明文明・惑星循環
+
+- [黎明文明：惑星循環文明への移行](https://github.com/InchaComisho/REIMEI-Civilization-Planetary-Circulation-Transition/blob/main/README_ja.md)
+- [REIMEI Civilization: Planetary Circulation Transition](https://github.com/InchaComisho/REIMEI-Civilization-Planetary-Circulation-Transition/blob/main/README.md)
+
+### 持続的未来文明マスタープラン
+
+- [Sustainable Future Civilization Master Plan](https://github.com/InchaComisho/Sustainable-Future-Civilization-Master-Plan)
+- [Natural-Law-Based Sustainable Future Civilization Master Plan](https://github.com/InchaComisho/Natural-Law-Based-Sustainable-Future-Civilization-Master-Plan)
+
+### 関連OSモデル
+
+- [都市・文明OS](https://github.com/InchaComisho/Urban-Civilization-OS-A-Circular-Infrastructure-Framework-for-Nature-Integrated-Cities/blob/main/README_ja.md)
+- [Urban–Civilization OS](https://github.com/InchaComisho/Urban-Civilization-OS-A-Circular-Infrastructure-Framework-for-Nature-Integrated-Cities/blob/main/README.md)
+- [自然・微生物OS](https://github.com/InchaComisho/Natural-Microbial-OS/blob/main/README_ja.md)
+- [Natural–Microbial OS](https://github.com/InchaComisho/Natural-Microbial-OS/blob/main/README.md)
+- [惑星熱・循環OS](https://github.com/InchaComisho/Planetary-Heat-Circulation-OS/blob/main/README_ja.md)
+- [Planetary Heat & Circulation OS](https://github.com/InchaComisho/Planetary-Heat-Circulation-OS/blob/main/README.md)
 
 NOTE版：
 

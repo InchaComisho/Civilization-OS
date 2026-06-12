@@ -576,12 +576,32 @@ It is a survival strategy for human civilization in the age of AI.
 
 ---
 
-## Related Documents
+## Related GitHub Documents
 
-Japanese version:
+### Civilization OS and REIMEI Civilization OS
 
-**Civilization OS / 文明OS**  
-https://github.com/InchaComisho/Civilization-OS/blob/main/README_ja.md
+- [Civilization OS / Japanese](https://github.com/InchaComisho/Civilization-OS/blob/main/README_ja.md)
+- [Next Civilization OS / REIMEI Civilization OS / Japanese](https://github.com/InchaComisho/REIMEI-Civilization-OS/blob/main/README_ja.md)
+- [REIMEI Civilization OS / Next Civilization OS / English](https://github.com/InchaComisho/REIMEI-Civilization-OS/blob/main/README.md)
+
+### REIMEI Civilization and Planetary Circulation
+
+- [REIMEI Civilization: Planetary Circulation Transition / Japanese](https://github.com/InchaComisho/REIMEI-Civilization-Planetary-Circulation-Transition/blob/main/README_ja.md)
+- [REIMEI Civilization: Planetary Circulation Transition / English](https://github.com/InchaComisho/REIMEI-Civilization-Planetary-Circulation-Transition/blob/main/README.md)
+
+### Sustainable Future Civilization Master Plans
+
+- [Sustainable Future Civilization Master Plan](https://github.com/InchaComisho/Sustainable-Future-Civilization-Master-Plan)
+- [Natural-Law-Based Sustainable Future Civilization Master Plan](https://github.com/InchaComisho/Natural-Law-Based-Sustainable-Future-Civilization-Master-Plan)
+
+### Related OS Models
+
+- [Urban–Civilization OS / Japanese](https://github.com/InchaComisho/Urban-Civilization-OS-A-Circular-Infrastructure-Framework-for-Nature-Integrated-Cities/blob/main/README_ja.md)
+- [Urban–Civilization OS / English](https://github.com/InchaComisho/Urban-Civilization-OS-A-Circular-Infrastructure-Framework-for-Nature-Integrated-Cities/blob/main/README.md)
+- [Natural–Microbial OS / Japanese](https://github.com/InchaComisho/Natural-Microbial-OS/blob/main/README_ja.md)
+- [Natural–Microbial OS / English](https://github.com/InchaComisho/Natural-Microbial-OS/blob/main/README.md)
+- [Planetary Heat & Circulation OS / Japanese](https://github.com/InchaComisho/Planetary-Heat-Circulation-OS/blob/main/README_ja.md)
+- [Planetary Heat & Circulation OS / English](https://github.com/InchaComisho/Planetary-Heat-Circulation-OS/blob/main/README.md)
 
 NOTE article:
 
