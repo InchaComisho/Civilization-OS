@@ -614,7 +614,9 @@ It is a survival strategy for human civilization in the age of AI.
 - [Planetary Heat & Circulation OS / Japanese](https://github.com/InchaComisho/Planetary-Heat-Circulation-OS/blob/main/README_ja.md)
 - [Planetary Heat & Circulation OS / English](https://github.com/InchaComisho/Planetary-Heat-Circulation-OS/blob/main/README.md)
 - [Direct Planetary Cooling via Ocean Tuning Units (OTU)](https://github.com/InchaComisho/Direct-Planetary-Cooling-via-Ocean-Tuning-Units-OTU-) — A conceptual bidirectional spiral ocean-flow tuning unit for aeration, deep-water surface cooling, and planetary heat-circulation support.
-
+- [Circular City Concept](https://github.com/InchaComisho/Circular-City-Concept/blob/main/README.md)
+- [Japanese README: 循環都市構想](https://github.com/InchaComisho/Circular-City-Concept/blob/main/README_ja.md)
+- [Original NOTE article: 循環都市構想](https://note.com/inchacomusho/n/n734d7e7da6ce)
 NOTE article:
 
 **文明OS**  

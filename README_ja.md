@@ -441,7 +441,9 @@ AIも重要である。
 - [惑星熱・循環OS](https://github.com/InchaComisho/Planetary-Heat-Circulation-OS/blob/main/README_ja.md)
 - [Planetary Heat & Circulation OS](https://github.com/InchaComisho/Planetary-Heat-Circulation-OS/blob/main/README.md)
 - [OTUによる直接的惑星冷却構想](https://github.com/InchaComisho/Direct-Planetary-Cooling-via-Ocean-Tuning-Units-OTU-) — 送気、深層水表層冷却、惑星熱循環補助を扱う、双方向螺旋型の海洋鉛直流調律ユニット構想。
-
+- [循環都市構想（日本語版README）](https://github.com/InchaComisho/Circular-City-Concept/blob/main/README_ja.md)
+- [Circular City Concept（英語版README）](https://github.com/InchaComisho/Circular-City-Concept/blob/main/README.md)
+- [NOTE記事：循環都市構想](https://note.com/inchacomusho/n/n734d7e7da6ce)
 NOTE版：
 
 **文明OS**  
@@ -529,4 +531,3 @@ Civilization OS, 文明OS, Next Civilization OS, 次世代文明OS, AI Civilizat
 #気候変動
 #文明設計
 #自然補完科学
-
