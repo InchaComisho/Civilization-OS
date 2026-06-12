@@ -580,12 +580,12 @@ It is a survival strategy for human civilization in the age of AI.
 
 Japanese version:
 
-**Civilization OS / 文明OS**
+**Civilization OS / 文明OS**  
 https://github.com/InchaComisho/Civilization-OS/blob/main/README_ja.md
 
 NOTE article:
 
-**文明OS**
+**文明OS**  
 https://note.com/inchacomusho/n/nc10fa0264dae
 
 ---
