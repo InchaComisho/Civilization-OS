@@ -1,4 +1,4 @@
-# Civilization OS / 文明OS
+# 文明OS / Civilization OS
 
 ## A Conceptual Architecture for Rewriting the Operating Principles of Civilization
 
