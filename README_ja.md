@@ -405,6 +405,8 @@ AIも重要である。
 
 ## Related Article / 関連記事
 
+English version:
+
 **Civilization OS**  
 https://github.com/InchaComisho/Civilization-OS/blob/main/README.md
 
