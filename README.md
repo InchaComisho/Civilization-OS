@@ -4,6 +4,15 @@
 
 ---
 
+## Position within the Civilization OS Framework
+
+This document is the core definition document for **Civilization OS**, a framework for understanding the deep operating principles of civilization.  
+It connects to the next-stage framework: **REIMEI Civilization OS / Next Civilization OS**.
+
+- [REIMEI Civilization OS / Next Civilization OS](https://github.com/InchaComisho/REIMEI-Civilization-OS/blob/main/README.md)
+
+---
+
 ## Abstract
 
 **Civilization OS** is a conceptual framework that describes the invisible operating system underlying human civilization.
