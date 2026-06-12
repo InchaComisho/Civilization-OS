@@ -9,6 +9,7 @@
 This document is the core definition document for **Civilization OS**, a framework for understanding the deep operating principles of civilization.  
 It connects to the next-stage framework: **REIMEI Civilization OS / Next Civilization OS**.
 
+- [Civilization OS Framework (Integrated Portal)](https://github.com/InchaComisho/Civilization-OS-Framework/blob/main/README.md)
 - [REIMEI Civilization OS / Next Civilization OS](https://github.com/InchaComisho/REIMEI-Civilization-OS/blob/main/README.md)
 
 ---

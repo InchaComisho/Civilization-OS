@@ -11,6 +11,7 @@
 本ドキュメントは、文明全体を動かす深層構造を定義する中核文書です。  
 次の段階として、自然法則・惑星循環・AI時代に適合する **次世代文明OS／黎明文明OS** へ接続します。
 
+- [Civilization OS Framework / 文明OS体系（統合ポータル）](https://github.com/InchaComisho/Civilization-OS-Framework/blob/main/README_ja.md)
 - [次世代文明OS／黎明文明OS](https://github.com/InchaComisho/REIMEI-Civilization-OS/blob/main/README_ja.md)
 
 ---
