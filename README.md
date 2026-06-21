@@ -612,6 +612,7 @@ It is a survival strategy for human civilization in the age of AI.
 - [Natural–Microbial OS / English](https://github.com/InchaComisho/Natural-Microbial-OS/blob/main/README.md)
 - [Planetary Heat & Circulation OS / Japanese](https://github.com/InchaComisho/Planetary-Heat-Circulation-OS/blob/main/README_ja.md)
 - [Planetary Heat & Circulation OS / English](https://github.com/InchaComisho/Planetary-Heat-Circulation-OS/blob/main/README.md)
+- [Direct Planetary Cooling via Ocean Tuning Units (OTU)](https://github.com/InchaComisho/Direct-Planetary-Cooling-via-Ocean-Tuning-Units-OTU-) — A conceptual bidirectional spiral ocean-flow tuning unit for aeration, deep-water surface cooling, and planetary heat-circulation support.
 
 NOTE article:
 
