@@ -715,3 +715,11 @@ Civilization OS, Civilization Operating System, Next Civilization OS, AI Civiliz
 #BiosphereStability
 #HumanAICoCreation
 #RegenerativeInfrastructure
+
+
+---
+
+## Related Institutional Proposal: Carbon Credit to Cooling Credit
+
+- [Carbon Credit to Cooling Credit](https://github.com/InchaComisho/Carbon-Credit-to-Cooling-Credit/blob/main/README.md)  
+  A conceptual proposal that reframes offset-based carbon credits as book-based accounting and defines Cooling Credits as an investment framework for physically measurable heat-load reduction and planetary cooling.

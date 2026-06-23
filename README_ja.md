@@ -541,3 +541,11 @@ Civilization OS, 文明OS, Next Civilization OS, 次世代文明OS, AI Civilizat
 #気候変動
 #文明設計
 #自然補完科学
+
+
+---
+
+## 関連制度提案：カーボンクレジットからクーリングクレジットへ
+
+- [カーボンクレジットからクーリングクレジットへ](https://github.com/InchaComisho/Carbon-Credit-to-Cooling-Credit/blob/main/README_ja.md)  
+  カーボンクレジットを帳簿上の相殺として整理し、クーリングクレジットを物理的な熱負荷低減に投資する地球救済ビジネスとして再定義する制度提案。
