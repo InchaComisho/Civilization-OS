@@ -461,6 +461,9 @@ https://note.com/inchacomusho/n/nc10fa0264dae
 
 ---
 
+- [Sustainable Future Cooling Credit Portal](https://github.com/InchaComisho/Sustainable-Future-Cooling-Credit-Portal)
+  サステナブル、サステナビリティ、SDGs、環境モビリティ、ESG、気候適応、都市冷却、文明OSなどの検索語から、クーリングクレジットへ接続する多言語検索入口ポータル。
+
 ## Repository Purpose / このリポジトリの目的
 
 このリポジトリは、文明OSという概念を整理し、次世代文明設計のための理論的・技術的基盤を提示することを目的とする。
