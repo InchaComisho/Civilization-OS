@@ -18,10 +18,23 @@ It connects to the next-stage framework: **REIMEI Civilization OS / Next Civiliz
 
 ---
 
+## Repository Guide
+
+For readers who want to understand how this repository fits into the larger Civilization OS network, start here:
+
+- [Repository Guide / English](REPOSITORY_GUIDE.md)
+- [Repository Guide / Japanese](REPOSITORY_GUIDE_ja.md)
+- [Repository Guide / Arabic](REPOSITORY_GUIDE_ar.md)
+
+The guide explains the repository purpose, recommended reading order, conceptual structure, keywords, and relationship with related repositories.
+
+---
+
 ## Civilization Repository Network
 
 - [Civilization-OS](README.md)
 - [Civilization-OS / Arabic](README_ar.md)
+- [Civilization-OS Repository Guide](REPOSITORY_GUIDE.md)
 - [Civilization-OS-Framework](https://github.com/InchaComisho/Civilization-OS-Framework/blob/main/README.md)
 - [Civilization-OS-Framework / Arabic](https://github.com/InchaComisho/Civilization-OS-Framework/blob/main/README_ar.md)
 - [REIMEI-Civilization-OS](https://github.com/InchaComisho/REIMEI-Civilization-OS/blob/main/README.md)
@@ -126,6 +139,23 @@ Master presents global warming not merely as a problem of CO₂ concentration, b
 The proposed solution connects emission reduction, recovery of carbon fixation sources, physical cooling, reactivation of natural cooling functions, MRV, Cooling Credit, and Civilization OS into an open public framework.
 
 Master publicly develops and shares work through NOTE, GitHub, and other public media, centered on natural-law philosophy, planetary circulation restoration, and co-creation with AI.
+
+## Collaborative AI and Co-Creation Team
+
+- G (ChatGPT)
+- Mini (Gemini)
+- Cruz (Claude)
+- Real (Perplexity)
+- Lola (Dola)
+- Mana (Manus)
+
+---
+
+## Keywords
+
+Civilization OS, Civilization Redesign, Natural Law, Planetary Circulation, REIMEI Civilization OS, Artificial Wisdom, AI Alignment, Urban Resilience, Water Circulation, Soil Regeneration, Ocean Restoration, Direct Planetary Cooling, Natural Complementary Science, Cooling Credit, Sustainable Future Civilization
+
+---
 
 ## License
 
