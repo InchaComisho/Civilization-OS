@@ -20,10 +20,23 @@
 
 ---
 
+## リポジトリガイド
+
+このリポジトリが文明OSネットワーク全体の中でどの位置にあるのかを理解する場合は、まず以下を参照してください。
+
+- [Repository Guide / English](REPOSITORY_GUIDE.md)
+- [Repository Guide / Japanese](REPOSITORY_GUIDE_ja.md)
+- [Repository Guide / Arabic](REPOSITORY_GUIDE_ar.md)
+
+ガイドでは、このリポジトリの目的、推奨される読み順、概念構造、キーワード、関連リポジトリとの接続を整理しています。
+
+---
+
 ## 文明系リポジトリ相互リンク
 
 - [Civilization-OS](README_ja.md)
 - [Civilization-OS / Arabic](README_ar.md)
+- [Civilization-OS リポジトリガイド](REPOSITORY_GUIDE_ja.md)
 - [Civilization-OS-Framework](https://github.com/InchaComisho/Civilization-OS-Framework/blob/main/README_ja.md)
 - [Civilization-OS-Framework / Arabic](https://github.com/InchaComisho/Civilization-OS-Framework/blob/main/README_ar.md)
 - [REIMEI-Civilization-OS](https://github.com/InchaComisho/REIMEI-Civilization-OS/blob/main/README_ja.md)
@@ -116,6 +129,23 @@
 マスターは、地球温暖化を単なるCO₂濃度の問題ではなく、森林喪失、土壌劣化、水循環断絶、水の相転移の弱体化、大気循環・海洋循環・食の循環／有機物循環の弱体化、蒸散・雲形成・降雨循環の弱体化、自然冷却フィードバックの停止として統合的に捉え、その解決策を排出削減、炭素固定源回復、物理的冷却、自然冷却機能の再起動、MRV、クーリングクレジット、文明OSへ接続する公開フレームワークとして提示している。
 
 自然法則思想、地球循環再生、AIとの共創を中心に、NOTE・GitHub・各種公開媒体を通じて公開活動を行う。
+
+## 協力AIと共創チーム
+
+- G（ChatGPT）
+- ミニ（Gemini）
+- クルス（Claude）
+- リアル（Perplexity）
+- ローラ（Lola/Dola）
+- マナ（Manus）
+
+---
+
+## キーワード
+
+文明OS、文明再設計、自然法則、惑星循環、黎明文明OS、人工叡智、AI価値整合、都市レジリエンス、水循環、土壌再生、海洋再生、地球直接冷却、自然補完科学、クーリングクレジット、持続的未来文明
+
+---
 
 ## ライセンス
 
