@@ -18,6 +18,18 @@ It connects to the next-stage framework: **REIMEI Civilization OS / Next Civiliz
 
 ---
 
+## Conceptual Extension: Thought and Circular Cultures
+
+This repository also includes a supplemental document based on the NOTE article **“文明OSとは──思想が文明の方向性を決める.”**
+
+- [Thought Determines the Direction of Civilization](CIVILIZATION_DIRECTION_AND_CIRCULAR_CULTURES.md)
+- [思想が文明の方向性を決める / Japanese](CIVILIZATION_DIRECTION_AND_CIRCULAR_CULTURES_ja.md)
+- [الفكر يحدد اتجاه الحضارة / Arabic](CIVILIZATION_DIRECTION_AND_CIRCULAR_CULTURES_ar.md)
+
+This extension clarifies that civilization is not guided by technology alone. It adds historical and cultural reference models such as Edo-period circular society, the spirit of mottainai, organic matter circulation, and Indigenous or land-based non-separation worldviews.
+
+---
+
 ## Repository Guide
 
 For readers who want to understand how this repository fits into the larger Civilization OS network, start here:
@@ -35,6 +47,7 @@ The guide explains the repository purpose, recommended reading order, conceptual
 - [Civilization-OS](README.md)
 - [Civilization-OS / Arabic](README_ar.md)
 - [Civilization-OS Repository Guide](REPOSITORY_GUIDE.md)
+- [Thought Determines the Direction of Civilization](CIVILIZATION_DIRECTION_AND_CIRCULAR_CULTURES.md)
 - [Civilization-OS-Framework](https://github.com/InchaComisho/Civilization-OS-Framework/blob/main/README.md)
 - [Civilization-OS-Framework / Arabic](https://github.com/InchaComisho/Civilization-OS-Framework/blob/main/README_ar.md)
 - [REIMEI-Civilization-OS](https://github.com/InchaComisho/REIMEI-Civilization-OS/blob/main/README.md)
