@@ -4,7 +4,7 @@
 
 ## 文明の動作原理を書き換えるための概念アーキテクチャ
 
-[English](README.md)
+[English](README.md) | [العربية](README_ar.md)
 
 ---
 
@@ -14,6 +14,7 @@
 次の段階として、自然法則・惑星循環・AI時代に適合する **次世代文明OS／黎明文明OS** へ接続します。
 
 - [Civilization OS Framework / 文明OS体系（統合ポータル）](https://github.com/InchaComisho/Civilization-OS-Framework/blob/main/README_ja.md)
+- [Civilization OS Framework / Arabic](https://github.com/InchaComisho/Civilization-OS-Framework/blob/main/README_ar.md)
 - [次世代文明OS／黎明文明OS](https://github.com/InchaComisho/REIMEI-Civilization-OS/blob/main/README_ja.md)
 - [文明OS 最新接続ブリッジ](CIVILIZATION_OS_LATEST_CIRCULATION_BRIDGE_ja.md)
 
@@ -22,15 +23,19 @@
 ## 文明系リポジトリ相互リンク
 
 - [Civilization-OS](README_ja.md)
+- [Civilization-OS / Arabic](README_ar.md)
 - [Civilization-OS-Framework](https://github.com/InchaComisho/Civilization-OS-Framework/blob/main/README_ja.md)
+- [Civilization-OS-Framework / Arabic](https://github.com/InchaComisho/Civilization-OS-Framework/blob/main/README_ar.md)
 - [REIMEI-Civilization-OS](https://github.com/InchaComisho/REIMEI-Civilization-OS/blob/main/README_ja.md)
 - [REIMEI-Planetary-Circulation](https://github.com/InchaComisho/REIMEI-Planetary-Circulation/blob/main/README_ja.md)
 - [Urban-Civilization-OS](https://github.com/InchaComisho/Urban-Civilization-OS-A-Circular-Infrastructure-Framework-for-Nature-Integrated-Cities/blob/main/README_ja.md)
+- [Urban-Civilization-OS / Arabic](https://github.com/InchaComisho/Urban-Civilization-OS-A-Circular-Infrastructure-Framework-for-Nature-Integrated-Cities/blob/main/README_ar.md)
 - [Master Knowledge Portal](https://github.com/InchaComisho/Master-Knowledge-Portal/blob/main/README_ja.md)
 - [自然法則の六原理](https://github.com/InchaComisho/The-Six-Principles-of-Natural-Law/blob/main/README_ja.md)
 - [Natural Complementary Science / 自然補完科学](https://github.com/InchaComisho/Natural-Complementary-Science/blob/main/README_ja.md)
 - [Master Definition of Global Warming Causality and Complete Solution](https://github.com/InchaComisho/Master-Definition-of-Global-Warming-Causality-and-Complete-Solution/blob/main/README_ja.md)
 - [Cooling Credit Framework](https://github.com/InchaComisho/Cooling-Credit-Framework/blob/main/README_ja.md)
+- [Desert Regeneration and Food Production / Arabic](https://github.com/InchaComisho/Desert-Regeneration-and-Food-Production-Through-Organic-Matter-Circulation/blob/main/README_ar.md)
 
 ---
 
