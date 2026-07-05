@@ -26,6 +26,18 @@
 
 ---
 
+## 追補文書：思想と循環型文化
+
+NOTE記事「文明OSとは──思想が文明の方向性を決める」を基に、GitHub向けの追補文書を追加しました。
+
+- [思想が文明の方向性を決める](CIVILIZATION_DIRECTION_AND_CIRCULAR_CULTURES_ja.md)
+- [Thought Determines the Direction of Civilization / English](CIVILIZATION_DIRECTION_AND_CIRCULAR_CULTURES.md)
+- [الفكر يحدد اتجاه الحضارة / Arabic](CIVILIZATION_DIRECTION_AND_CIRCULAR_CULTURES_ar.md)
+
+この追補では、技術だけが文明を導くのではなく、思想・世界観・自然観が文明の方向性を決めることを整理しています。江戸時代の循環型社会、もったいない精神、有機物循環、先住民・土地密着文化に見られる自然と人間を分断しない思想を、文明OSの参照モデルとして位置づけました。
+
+---
+
 ## リポジトリガイド
 
 このリポジトリが文明OSネットワーク全体の中でどの位置にあるのかを理解する場合は、まず以下を参照してください。
@@ -43,6 +55,7 @@
 - [Civilization-OS](README_ja.md)
 - [Civilization-OS / Arabic](README_ar.md)
 - [Civilization-OS リポジトリガイド](REPOSITORY_GUIDE_ja.md)
+- [思想が文明の方向性を決める](CIVILIZATION_DIRECTION_AND_CIRCULAR_CULTURES_ja.md)
 - [文明OSとは──思想が文明の方向性を決める（NOTE）](https://note.com/inchacomusho/n/n0171116adafa)
 - [Civilization-OS-Framework](https://github.com/InchaComisho/Civilization-OS-Framework/blob/main/README_ja.md)
 - [Civilization-OS-Framework / Arabic](https://github.com/InchaComisho/Civilization-OS-Framework/blob/main/README_ar.md)
