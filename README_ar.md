@@ -20,6 +20,18 @@
 
 ---
 
+## ملحق مفاهيمي: الفكر والثقافات الدائرية
+
+يتضمن هذا المستودع أيضاً وثيقة مكملة مستندة إلى مقالة NOTE بعنوان **「文明OSとは──思想が文明の方向性を決める」**.
+
+- [الفكر يحدد اتجاه الحضارة](CIVILIZATION_DIRECTION_AND_CIRCULAR_CULTURES_ar.md)
+- [思想が文明の方向性を決める / Japanese](CIVILIZATION_DIRECTION_AND_CIRCULAR_CULTURES_ja.md)
+- [Thought Determines the Direction of Civilization / English](CIVILIZATION_DIRECTION_AND_CIRCULAR_CULTURES.md)
+
+يوضح هذا الملحق أن الحضارة لا توجهها التكنولوجيا وحدها. ويضيف نماذج مرجعية تاريخية وثقافية مثل مجتمع إيدو الدائري، وروح mottainai، ودورة المادة العضوية، والرؤى الأصلية أو المرتبطة بالأرض التي لا تفصل الإنسان عن الطبيعة.
+
+---
+
 ## دليل المستودع
 
 لفهم موقع هذا المستودع داخل شبكة Civilization OS الأوسع، ابدأ من هنا:
@@ -38,6 +50,7 @@
 - [Civilization-OS / 日本語](README_ja.md)
 - [Civilization-OS / العربية](README_ar.md)
 - [Civilization-OS Repository Guide / العربية](REPOSITORY_GUIDE_ar.md)
+- [الفكر يحدد اتجاه الحضارة](CIVILIZATION_DIRECTION_AND_CIRCULAR_CULTURES_ar.md)
 - [Civilization-OS-Framework / العربية](https://github.com/InchaComisho/Civilization-OS-Framework/blob/main/README_ar.md)
 - [Civilization-OS-Framework / English](https://github.com/InchaComisho/Civilization-OS-Framework/blob/main/README.md)
 - [Civilization-OS-Framework / 日本語](https://github.com/InchaComisho/Civilization-OS-Framework/blob/main/README_ja.md)
