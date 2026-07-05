@@ -20,6 +20,12 @@
 
 ---
 
+## NOTE解説記事
+
+- [文明OSとは──思想が文明の方向性を決める（NOTE）](https://note.com/inchacomusho/n/n0171116adafa)
+
+---
+
 ## リポジトリガイド
 
 このリポジトリが文明OSネットワーク全体の中でどの位置にあるのかを理解する場合は、まず以下を参照してください。
@@ -37,6 +43,7 @@
 - [Civilization-OS](README_ja.md)
 - [Civilization-OS / Arabic](README_ar.md)
 - [Civilization-OS リポジトリガイド](REPOSITORY_GUIDE_ja.md)
+- [文明OSとは──思想が文明の方向性を決める（NOTE）](https://note.com/inchacomusho/n/n0171116adafa)
 - [Civilization-OS-Framework](https://github.com/InchaComisho/Civilization-OS-Framework/blob/main/README_ja.md)
 - [Civilization-OS-Framework / Arabic](https://github.com/InchaComisho/Civilization-OS-Framework/blob/main/README_ar.md)
 - [REIMEI-Civilization-OS](https://github.com/InchaComisho/REIMEI-Civilization-OS/blob/main/README_ja.md)
