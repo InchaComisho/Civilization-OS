@@ -30,6 +30,19 @@ This extension clarifies that civilization is not guided by technology alone. It
 
 ---
 
+## Civilization Survival OS Comparison Simulation
+
+This repository now includes a conceptual, non-predictive simulation comparing the long-term survival structure of the current linear Civilization OS and an Edo-like circular Civilization OS.
+
+- [Civilization Survival OS Comparison Simulation / English](simulations/civilization_survival_os_comparison/README.md)
+- [文明存続OS比較シミュレーション / Japanese](simulations/civilization_survival_os_comparison/README_ja.md)
+- [Simulation Script](simulations/civilization_survival_os_comparison/civilization_survival_os_comparison.py)
+- [Results CSV](simulations/civilization_survival_os_comparison/results_summary.csv)
+
+The simulation treats the current Civilization OS as extraction, consumption, waste, and external dependency, while the Edo-like circular OS is modeled as reuse, organic matter circulation, local circulation, and maintenance of natural cooling functions.
+
+---
+
 ## Repository Guide
 
 For readers who want to understand how this repository fits into the larger Civilization OS network, start here:
@@ -48,6 +61,7 @@ The guide explains the repository purpose, recommended reading order, conceptual
 - [Civilization-OS / Arabic](README_ar.md)
 - [Civilization-OS Repository Guide](REPOSITORY_GUIDE.md)
 - [Thought Determines the Direction of Civilization](CIVILIZATION_DIRECTION_AND_CIRCULAR_CULTURES.md)
+- [Civilization Survival OS Comparison Simulation](simulations/civilization_survival_os_comparison/README.md)
 - [Civilization-OS-Framework](https://github.com/InchaComisho/Civilization-OS-Framework/blob/main/README.md)
 - [Civilization-OS-Framework / Arabic](https://github.com/InchaComisho/Civilization-OS-Framework/blob/main/README_ar.md)
 - [REIMEI-Civilization-OS](https://github.com/InchaComisho/REIMEI-Civilization-OS/blob/main/README.md)
