@@ -39,6 +39,19 @@ NOTE記事「文明OSとは──思想が文明の方向性を決める」を�
 
 ---
 
+## 文明存続OS比較シミュレーション
+
+現文明OSと江戸時代的循環OSの文明存続構造を比較する、概念的・非予測型シミュレーションを追加しました。
+
+- [文明存続OS比較シミュレーション / Japanese](simulations/civilization_survival_os_comparison/README_ja.md)
+- [Civilization Survival OS Comparison Simulation / English](simulations/civilization_survival_os_comparison/README.md)
+- [Simulation Script](simulations/civilization_survival_os_comparison/civilization_survival_os_comparison.py)
+- [Results CSV](simulations/civilization_survival_os_comparison/results_summary.csv)
+
+このシミュレーションでは、現文明OSを「採掘・消費・廃棄・外部依存」、江戸時代的循環OSを「再利用・有機物循環・地域内循環・自然冷却維持」として扱い、長期的な文明存続スコアの違いを可視化します。
+
+---
+
 ## リポジトリガイド
 
 このリポジトリが文明OSネットワーク全体の中でどの位置にあるのかを理解する場合は、まず以下を参照してください。
@@ -57,6 +70,7 @@ NOTE記事「文明OSとは──思想が文明の方向性を決める」を�
 - [Civilization-OS / Arabic](README_ar.md)
 - [Civilization-OS リポジトリガイド](REPOSITORY_GUIDE_ja.md)
 - [思想が文明の方向性を決める](CIVILIZATION_DIRECTION_AND_CIRCULAR_CULTURES_ja.md)
+- [文明存続OS比較シミュレーション](simulations/civilization_survival_os_comparison/README_ja.md)
 - [追加NOTE参照リンク](ADDITIONAL_NOTE_REFERENCES_ja.md)
 - [文明OSとは──思想が文明の方向性を決める（NOTE）](https://note.com/inchacomusho/n/n0171116adafa)
 - [Civilization-OS-Framework](https://github.com/InchaComisho/Civilization-OS-Framework/blob/main/README_ja.md)
