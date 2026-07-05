@@ -23,6 +23,7 @@
 ## NOTE解説記事
 
 - [文明OSとは──思想が文明の方向性を決める（NOTE）](https://note.com/inchacomusho/n/n0171116adafa)
+- [追加NOTE参照リンク](ADDITIONAL_NOTE_REFERENCES_ja.md)
 
 ---
 
@@ -56,6 +57,7 @@ NOTE記事「文明OSとは──思想が文明の方向性を決める」を�
 - [Civilization-OS / Arabic](README_ar.md)
 - [Civilization-OS リポジトリガイド](REPOSITORY_GUIDE_ja.md)
 - [思想が文明の方向性を決める](CIVILIZATION_DIRECTION_AND_CIRCULAR_CULTURES_ja.md)
+- [追加NOTE参照リンク](ADDITIONAL_NOTE_REFERENCES_ja.md)
 - [文明OSとは──思想が文明の方向性を決める（NOTE）](https://note.com/inchacomusho/n/n0171116adafa)
 - [Civilization-OS-Framework](https://github.com/InchaComisho/Civilization-OS-Framework/blob/main/README_ja.md)
 - [Civilization-OS-Framework / Arabic](https://github.com/InchaComisho/Civilization-OS-Framework/blob/main/README_ar.md)
