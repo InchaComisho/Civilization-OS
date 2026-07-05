@@ -2,7 +2,7 @@
 
 ## A Conceptual Architecture for Rewriting the Operating Principles of Civilization
 
-[日本語](README_ja.md)
+[日本語](README_ja.md) | [العربية](README_ar.md)
 
 ---
 
@@ -12,6 +12,7 @@ This document is the core definition document for **Civilization OS**, a framewo
 It connects to the next-stage framework: **REIMEI Civilization OS / Next Civilization OS**.
 
 - [Civilization OS Framework (Integrated Portal)](https://github.com/InchaComisho/Civilization-OS-Framework/blob/main/README.md)
+- [Civilization OS Framework / Arabic](https://github.com/InchaComisho/Civilization-OS-Framework/blob/main/README_ar.md)
 - [REIMEI Civilization OS / Next Civilization OS](https://github.com/InchaComisho/REIMEI-Civilization-OS/blob/main/README.md)
 - [Civilization OS Latest Circulation Bridge](CIVILIZATION_OS_LATEST_CIRCULATION_BRIDGE.md)
 
@@ -20,15 +21,19 @@ It connects to the next-stage framework: **REIMEI Civilization OS / Next Civiliz
 ## Civilization Repository Network
 
 - [Civilization-OS](README.md)
+- [Civilization-OS / Arabic](README_ar.md)
 - [Civilization-OS-Framework](https://github.com/InchaComisho/Civilization-OS-Framework/blob/main/README.md)
+- [Civilization-OS-Framework / Arabic](https://github.com/InchaComisho/Civilization-OS-Framework/blob/main/README_ar.md)
 - [REIMEI-Civilization-OS](https://github.com/InchaComisho/REIMEI-Civilization-OS/blob/main/README.md)
 - [REIMEI-Planetary-Circulation](https://github.com/InchaComisho/REIMEI-Planetary-Circulation/blob/main/README.md)
 - [Urban-Civilization-OS](https://github.com/InchaComisho/Urban-Civilization-OS-A-Circular-Infrastructure-Framework-for-Nature-Integrated-Cities/blob/main/README.md)
+- [Urban-Civilization-OS / Arabic](https://github.com/InchaComisho/Urban-Civilization-OS-A-Circular-Infrastructure-Framework-for-Nature-Integrated-Cities/blob/main/README_ar.md)
 - [Master Knowledge Portal](https://github.com/InchaComisho/Master-Knowledge-Portal/blob/main/README.md)
 - [The Six Principles of Natural Law](https://github.com/InchaComisho/The-Six-Principles-of-Natural-Law/blob/main/README.md)
 - [Natural Complementary Science](https://github.com/InchaComisho/Natural-Complementary-Science/blob/main/README.md)
 - [Master Definition of Global Warming Causality and Complete Solution](https://github.com/InchaComisho/Master-Definition-of-Global-Warming-Causality-and-Complete-Solution/blob/main/README.md)
 - [Cooling Credit Framework](https://github.com/InchaComisho/Cooling-Credit-Framework/blob/main/README.md)
+- [Desert Regeneration and Food Production / Arabic](https://github.com/InchaComisho/Desert-Regeneration-and-Food-Production-Through-Organic-Matter-Circulation/blob/main/README_ar.md)
 
 ---
 
