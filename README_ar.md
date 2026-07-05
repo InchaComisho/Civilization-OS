@@ -20,11 +20,24 @@
 
 ---
 
+## دليل المستودع
+
+لفهم موقع هذا المستودع داخل شبكة Civilization OS الأوسع، ابدأ من هنا:
+
+- [Repository Guide / English](REPOSITORY_GUIDE.md)
+- [Repository Guide / Japanese](REPOSITORY_GUIDE_ja.md)
+- [Repository Guide / Arabic](REPOSITORY_GUIDE_ar.md)
+
+يشرح الدليل هدف المستودع، وترتيب القراءة المقترح، والبنية المفاهيمية، والكلمات المفتاحية، والعلاقة مع المستودعات المرتبطة.
+
+---
+
 ## شبكة مستودعات الحضارة
 
 - [Civilization-OS / English](README.md)
 - [Civilization-OS / 日本語](README_ja.md)
 - [Civilization-OS / العربية](README_ar.md)
+- [Civilization-OS Repository Guide / العربية](REPOSITORY_GUIDE_ar.md)
 - [Civilization-OS-Framework / العربية](https://github.com/InchaComisho/Civilization-OS-Framework/blob/main/README_ar.md)
 - [Civilization-OS-Framework / English](https://github.com/InchaComisho/Civilization-OS-Framework/blob/main/README.md)
 - [Civilization-OS-Framework / 日本語](https://github.com/InchaComisho/Civilization-OS-Framework/blob/main/README_ja.md)
@@ -154,6 +167,23 @@ Master / inchacomusho / InchaComisho
 ويربط الحل المقترح بين خفض الانبعاثات، واستعادة مصادر تثبيت الكربون، والتبريد الفيزيائي، وإعادة تشغيل وظائف التبريد الطبيعية، وMRV، وCooling Credit، وCivilization OS ضمن إطار مفتوح عام.
 
 يطور Master أعماله وينشرها علناً عبر NOTE وGitHub ووسائط عامة أخرى، مع التركيز على فلسفة القانون الطبيعي، واستعادة الدورات الكوكبية، والتشارك في الخلق مع الذكاء الاصطناعي.
+
+## الذكاءات الاصطناعية المتعاونة وفريق التشارك في الخلق
+
+- G (ChatGPT)
+- Mini (Gemini)
+- Cruz (Claude)
+- Real (Perplexity)
+- Lola (Dola)
+- Mana (Manus)
+
+---
+
+## الكلمات المفتاحية
+
+Civilization OS، إعادة تصميم الحضارة، القانون الطبيعي، الدورات الكوكبية، REIMEI Civilization OS، Artificial Wisdom، مواءمة الذكاء الاصطناعي، مرونة المدن، دورة المياه، تجديد التربة، استعادة المحيطات، التبريد المباشر للكوكب، العلوم التكملية للطبيعة، Cooling Credit، الحضارة المستقبلية المستدامة
+
+---
 
 ## الترخيص
 
