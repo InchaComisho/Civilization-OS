@@ -1,5 +1,7 @@
 # 文明OS / Civilization OS
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M6J122N2K2)
+
 ## A Conceptual Architecture for Rewriting the Operating Principles of Civilization
 
 ## 文明の動作原理を書き換えるための概念アーキテクチャ
