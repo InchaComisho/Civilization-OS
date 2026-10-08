@@ -208,10 +208,6 @@ Civilization OS التي تحرق المادة العضوية أو تزيلها 
 
 ---
 
-## مقالة NOTE ذات الصلة
-
-- [文明OSとは──思想が文明の方向性を決める](https://note.com/inchacomusho/n/n0171116adafa)
-
 ## الترخيص
 
 CC BY 4.0

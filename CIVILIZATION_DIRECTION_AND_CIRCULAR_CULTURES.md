@@ -208,10 +208,6 @@ The next Civilization OS must move from separation to connection, from disposal 
 
 ---
 
-## Related NOTE Article
-
-- [文明OSとは──思想が文明の方向性を決める](https://note.com/inchacomusho/n/n0171116adafa)
-
 ## License
 
 CC BY 4.0
