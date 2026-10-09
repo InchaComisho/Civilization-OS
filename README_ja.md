@@ -33,7 +33,7 @@
 NOTE記事「文明OSとは──思想が文明の方向性を決める」を基に、GitHub向けの追補文書を追加しました。
 
 - [思想が文明の方向性を決める](CIVILIZATION_DIRECTION_AND_CIRCULAR_CULTURES_ja.md)
-- [Thought Determines the Direction of Civilization / English](CIVILIZATION_DIRECTION_AND_CIRCULAR_CULTURES.md)
+- [Thought Determines the Direction of Civilization / English](CIVILIZATION_DIRECTION_AND_CIRCULAR_CULTURES_ja.md)
 - [الفكر يحدد اتجاه الحضارة / Arabic](CIVILIZATION_DIRECTION_AND_CIRCULAR_CULTURES_ar.md)
 
 この追補では、技術だけが文明を導くのではなく、思想・世界観・自然観が文明の方向性を決めることを整理しています。江戸時代の循環型社会、もったいない精神、有機物循環、先住民・土地密着文化に見られる自然と人間を分断しない思想を、文明OSの参照モデルとして位置づけました。
@@ -45,7 +45,7 @@ NOTE記事「文明OSとは──思想が文明の方向性を決める」を�
 現文明OSと江戸時代的循環OSの文明存続構造を比較する、概念的・非予測型シミュレーションを追加しました。
 
 - [文明存続OS比較シミュレーション / Japanese](simulations/civilization_survival_os_comparison/README_ja.md)
-- [Civilization Survival OS Comparison Simulation / English](simulations/civilization_survival_os_comparison/README.md)
+- [Civilization Survival OS Comparison Simulation / English](simulations/civilization_survival_os_comparison/README_ja.md)
 - [Simulation Script](simulations/civilization_survival_os_comparison/civilization_survival_os_comparison.py)
 - [Results CSV](simulations/civilization_survival_os_comparison/results_summary.csv)
 
@@ -57,7 +57,7 @@ NOTE記事「文明OSとは──思想が文明の方向性を決める」を�
 
 このリポジトリが文明OSネットワーク全体の中でどの位置にあるのかを理解する場合は、まず以下を参照してください。
 
-- [Repository Guide / English](REPOSITORY_GUIDE.md)
+- [Repository Guide / English](REPOSITORY_GUIDE_ja.md)
 - [Repository Guide / Japanese](REPOSITORY_GUIDE_ja.md)
 - [Repository Guide / Arabic](REPOSITORY_GUIDE_ar.md)
 
