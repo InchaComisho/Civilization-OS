@@ -1,5 +1,7 @@
 # Civilization OS Repository Guide
 
+[日本語版はこちら / Japanese version](REPOSITORY_GUIDE_ja.md)
+
 ## Purpose of This Repository
 
 This repository defines **Civilization OS** as the deep operating layer of human civilization.
